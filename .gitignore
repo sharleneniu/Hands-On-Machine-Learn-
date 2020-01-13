@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# jupyter notebook ignore
+./ipynb_checkpoints
+
+.gitignore
+./.DS_Store
